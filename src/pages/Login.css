@@ -1,3 +1,7 @@
 .bgimg{
     background-image: url("/src/bkimg/apple-business-computer-39284\ -\ Copy\ 1.png");
 }
+
+.box{
+    box-shadow: 20px 10px 24px -1px rgba(0, 0, 0, 0.78);
+}
