@@ -7,7 +7,7 @@ const Login = () => {
       <div className='bgimg w-screen h-screen pt-[100px]'>
         <div className='box w-[582px] h-[667px] backdrop-blur-2xl rounded-[11px]'>
 
-          <h1 className='not-italic font-[400px] text-[64px] leading-[74px] text-white pt-[80px]'>Login</h1>
+          <h1 className='not-italic font-[400px] text-[64px] leading-[74px] text-white font-semibold pt-[80px]'>Login</h1>
 
           <form>
             <input className='w-[417px] h-[86px] mt-6 items-center text-center not-italic font-[400px] text-[16px] leading-[18px] border-2 bg-transparent' type="email" id='email' placeholder='user name/email or number' />

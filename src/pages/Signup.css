@@ -1,0 +1,8 @@
+.bggimg{
+    background-image: url("/src/bggimg/picture.jpg");
+    background-color: #00101B;
+}
+
+.boxx{
+    box-shadow: 20px 10px 24px -1px rgba(0, 0, 0, 0.78);
+}
