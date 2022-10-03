@@ -4,7 +4,7 @@ import "./Signup.css"
 const Signup = () => {
   return (
     <center>
-      <div className='bggimg w-screen h-screen pt-[100px]'>
+      <div className='bggimg w-screen h-screen pt-[100px] bg-no-repeat bg-cover'>
         <div className='boxx w-[582px] h-[667px] backdrop-blur-2xl rounded-[11px]'>
 
           <h1 className='not-italic font-[400px] text-[64px] leading-[74px] text-white font-semibold pt-[80px]'>SIGN UP</h1>
